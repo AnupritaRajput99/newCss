@@ -1,0 +1,21 @@
+#box{
+    background-color: blue;
+    text-size-adjust: 25px;
+}
+ .b1{
+    color: pink;
+}
+#box button{
+    background-color: green;
+}
+#box2 h1{
+    text-align: center;
+}
+#box2 p{
+    font-family: 'Times New Roman';
+    
+}
+#box2 {
+    text-size-adjust: 10px;
+     background-color: bisque;
+}
